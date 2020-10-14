@@ -1,5 +1,5 @@
-# SQL
-KODY SQL
+# SQL/Projekt bazodanowy
+
 - Diagram ERD został przekonwertowany do modelu relacyjnego
 Skrypt SQL zawiera instrukcje:
 - usuwania wszystkich obietków z bazy;
